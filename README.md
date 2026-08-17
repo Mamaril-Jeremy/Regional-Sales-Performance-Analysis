@@ -2,11 +2,6 @@
 
 An interactive Tableau dashboard analyzing sales, profitability, and fulfillment performance across a multi-region retail operation.
 
-![Tableau](https://img.shields.io/badge/Tableau-dashboard-e97627)
-![LOD](https://img.shields.io/badge/LOD%20expressions-FIXED-1f77b4)
-![Data](https://img.shields.io/badge/joins-6%20tables-green)
-![Views](https://img.shields.io/badge/worksheets-10-lightgrey)
-
 **[View the live dashboard on Tableau Public](https://public.tableau.com/app/profile/jeremy.mamaril/viz/DTSC600_FinalProject_JeremyMamaril/SalesStoryJeremyMamaril#1)**
 
 FILL: add 2-3 screenshots here — the full dashboard, plus the profit-per-capita map and the treemap. Even with a live link, images in the README mean someone browsing GitHub sees the work without leaving the page.
