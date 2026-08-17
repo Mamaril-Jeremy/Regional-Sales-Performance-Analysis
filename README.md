@@ -4,10 +4,12 @@ An interactive Tableau dashboard analyzing sales, profitability, and fulfillment
 
 **[View the live dashboard on Tableau Public](https://public.tableau.com/app/profile/jeremy.mamaril/viz/DTSC600_FinalProject_JeremyMamaril/SalesStoryJeremyMamaril#1)**
 
-FILL: add 2-3 screenshots here — the full dashboard, plus the profit-per-capita map and the treemap. Even with a live link, images in the README mean someone browsing GitHub sees the work without leaving the page.
-
+## Screenshots of Some Sheets
 <img width="646" height="503" alt="image" src="https://github.com/user-attachments/assets/7998a634-3a1c-45c1-a0a2-3c7dc36c8eff" />
 
+<img width="830" height="384" alt="image" src="https://github.com/user-attachments/assets/57a35878-e50b-48d1-aa73-800dec641e6e" />
+
+<img width="826" height="375" alt="image" src="https://github.com/user-attachments/assets/7ea411d2-42d3-4580-bddd-739b0ef9abd7" />
 
 ---
 
@@ -101,11 +103,10 @@ Main parameter in the dashboard is category.
 
 ## What the data showed
 
-- Which region or city won on profit per capita, and was it different from the raw-profit leader? (If yes, that's your headline — it's the whole point of the LOD work.)
-- Did any category sell well but carry thin margin?
-- Was one channel meaningfully more profitable than the others?
-- Did shipping or delivery time trend up over the period?
-- How far below goal were the underperforming reps?
+- Profit-per capita dominated in the East, mainly in Florida and along the East coast, which differs from California, the raw-profit leader
+- In-Store products tended to generally produce the most amount of profit compared to the others.
+- Throughout the year, both shipping and delivery times went up, which is what we expect as the holidays occur toward the end of the year.
+- The underperforming reps on the sales team only missed the mark of the average by about 20%, a concern that the company has to evaluate as harmful or not
 
 ---
 
