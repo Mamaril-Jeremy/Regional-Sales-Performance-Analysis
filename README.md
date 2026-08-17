@@ -6,6 +6,9 @@ An interactive Tableau dashboard analyzing sales, profitability, and fulfillment
 
 FILL: add 2-3 screenshots here — the full dashboard, plus the profit-per-capita map and the treemap. Even with a live link, images in the README mean someone browsing GitHub sees the work without leaving the page.
 
+<img width="646" height="503" alt="image" src="https://github.com/user-attachments/assets/7998a634-3a1c-45c1-a0a2-3c7dc36c8eff" />
+
+
 ---
 
 ## The question
