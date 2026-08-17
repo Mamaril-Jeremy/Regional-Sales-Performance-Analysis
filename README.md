@@ -128,4 +128,8 @@ To open the workbook locally you need Tableau Desktop or the free Tableau Public
 
 ## Built with
 
-Tableau Desktop · LOD expressions · calculated fields · parameters · dual-axis and mapped views · packaged extract (`.hyper`)
+- Tableau Desktop
+- LOD expressions
+- calculated fields
+- parameters
+- dual-axis and mapped views
